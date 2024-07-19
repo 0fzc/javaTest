@@ -2,6 +2,7 @@ package com.hspedu.Homework;
 
 import java.util.Scanner;
 //      异常处理方法   try——catch
+//  判断输入数值
 /**
  * @author 冯振聪
  * @version 1.0
